@@ -2,7 +2,7 @@
 
 My name is Victor Hugo, I'm a senior software engineer with a focus on the back-end, what I like the most are distributed systems, especially microservices and event driven environments, how we can achieve all they good parts and handle with the tradeoffs.
 
-About my self, I like to study haha, sometimes I enjoy to study some differents subjects beyond technology, like history, business and astronomy but I also like to do some funier things like **traveling** ❤️, watching movies, to practice yoga, go hiking, try to play the guitar and watch some japanese animations!
+About my self, I like to study haha, sometimes I enjoy to study some differents subjects beyond technology, like history, business and astronomy but I also like to do other funier things like **traveling** ❤️, watching movies, practice yoga, go hiking, try to play the guitar and watch some japanese animations!
 
 I also enjoy writing! I have written some articles on the Medium network so go [there](https://medium.com/@victorhsr) and check it out (for now, the majority of the articles are written in brazilian portuguese).
 
