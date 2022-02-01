@@ -12,7 +12,7 @@ I also enjoy writing! I have written some articles on the Medium network so go [
 
 ## My Stack 
 
-<img align="right" width="400" height="400" src="https://media2.giphy.com/media/unQ3IJU2RG7DO/giphy.gif?cid=790b761194d9aa79cd22873d8d7f8f106381e1f2277a9cad&rid=giphy.gif&ct=g">
+<img align="right" width="300" height="300" src="https://media2.giphy.com/media/unQ3IJU2RG7DO/giphy.gif?cid=790b761194d9aa79cd22873d8d7f8f106381e1f2277a9cad&rid=giphy.gif&ct=g">
 
 ### Languages
 
