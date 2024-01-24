@@ -1,6 +1,6 @@
 # Hello and welcome!
 
-My name is Victor Hugo, I'm a senior software engineer with a focus on the back-end, what I like the most are distributed systems, especially microservices and event driven environments, how we can achieve all they good parts and handle with the tradeoffs.
+Hey I'm Victor Hugo, I'm a senior software engineer with a focus on the back-end, what I like the most are distributed systems, especially microservices and event driven environments, how we can achieve all they good parts and handle with the tradeoffs.
 
 About myself, I like to study haha, sometimes I enjoy to study some differents subjects beyond technology, like history, business and astronomy but I also like to do other funier things like **traveling** ❤️, watching movies, practice yoga, go hiking, try to play the guitar and watch some japanese animations!
 
